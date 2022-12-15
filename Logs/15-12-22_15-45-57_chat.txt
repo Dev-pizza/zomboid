@@ -1,0 +1,86 @@
+[15-12-22 15:45:57.661][info] Start chat server initialization....
+[15-12-22 15:45:57.666][info] General chat has id = 0.
+[15-12-22 15:45:57.666][info] Say chat has id = 1.
+[15-12-22 15:45:57.666][info] Shout chat has id = 2.
+[15-12-22 15:45:57.666][info] Radio chat has id = 3.
+[15-12-22 15:45:57.666][info] Admin chat has id = 4.
+[15-12-22 15:45:57.666][info] Server chat has id = 5.
+[15-12-22 15:45:57.666][info] Chat server successfully initialized.
+[15-12-22 15:46:55.082][info] Player with id = '0' tries to connect.
+[15-12-22 15:46:55.082][info] Adding player '0' to chat server.
+[15-12-22 15:46:55.086][info] Player joined to default chats.
+[15-12-22 15:46:55.086][info] Player Dev_pizza(0) joined to chat server successfully.
+[15-12-22 15:49:11.081][info] Player with id = '4' tries to connect.
+[15-12-22 15:49:11.081][info] Adding player '4' to chat server.
+[15-12-22 15:49:11.081][info] Player joined to default chats.
+[15-12-22 15:49:11.081][info] Player cjww0411(4) joined to chat server successfully.
+[15-12-22 16:21:19.715][info] Player 4 disconnecting....
+[15-12-22 16:21:19.716][info] Disconnecting player 4 finished.
+[15-12-22 16:21:35.433][info] Player 4 disconnecting....
+[15-12-22 16:21:35.433][info] Disconnecting player 4 finished.
+[15-12-22 16:21:35.434][info] Player with id = '4' tries to connect.
+[15-12-22 16:21:35.434][info] Adding player '4' to chat server.
+[15-12-22 16:21:35.434][error] Player or connection is not found on server!.
+[15-12-22 16:21:35.434][error] player = null.
+[15-12-22 16:21:37.716][info] Player with id = '4' tries to connect.
+[15-12-22 16:21:37.716][info] Adding player '4' to chat server.
+[15-12-22 16:21:37.716][info] Player joined to default chats.
+[15-12-22 16:21:37.716][info] Player cjww0411(4) joined to chat server successfully.
+[15-12-22 16:22:53.824][info] Player 0 disconnecting....
+[15-12-22 16:22:53.825][info] Disconnecting player 0 finished.
+[15-12-22 16:23:02.980][info] Player 0 disconnecting....
+[15-12-22 16:23:02.980][info] Disconnecting player 0 finished.
+[15-12-22 16:23:02.980][info] Player with id = '0' tries to connect.
+[15-12-22 16:23:02.980][info] Adding player '0' to chat server.
+[15-12-22 16:23:02.980][error] Player or connection is not found on server!.
+[15-12-22 16:23:02.980][error] player = null.
+[15-12-22 16:23:05.390][info] Player with id = '0' tries to connect.
+[15-12-22 16:23:05.390][info] Adding player '0' to chat server.
+[15-12-22 16:23:05.390][info] Player joined to default chats.
+[15-12-22 16:23:05.390][info] Player Dev_pizza(0) joined to chat server successfully.
+[15-12-22 16:25:39.817][info] Player 0 disconnecting....
+[15-12-22 16:25:39.817][info] Disconnecting player 0 finished.
+[15-12-22 16:25:51.275][info] Player 0 disconnecting....
+[15-12-22 16:25:51.275][info] Disconnecting player 0 finished.
+[15-12-22 16:25:51.275][info] Player with id = '0' tries to connect.
+[15-12-22 16:25:51.275][info] Adding player '0' to chat server.
+[15-12-22 16:25:51.275][error] Player or connection is not found on server!.
+[15-12-22 16:25:51.275][error] player = null.
+[15-12-22 16:25:54.079][info] Player with id = '0' tries to connect.
+[15-12-22 16:25:54.079][info] Adding player '0' to chat server.
+[15-12-22 16:25:54.079][info] Player joined to default chats.
+[15-12-22 16:25:54.079][info] Player Dev_pizza(0) joined to chat server successfully.
+[15-12-22 16:26:14.834][info] Got message:ChatMessage{chat=지역, author='Dev_pizza', text='어이!'}.
+[15-12-22 16:26:14.835][info] Message ChatMessage{chat=지역, author='Dev_pizza', text='어이!'} sent to chat (id = 2) members.
+[15-12-22 16:26:14.999][info] Got message:ChatMessage{chat=지역, author='Dev_pizza', text='어이!'}.
+[15-12-22 16:26:14.999][info] Message ChatMessage{chat=지역, author='Dev_pizza', text='어이!'} sent to chat (id = 2) members.
+[15-12-22 16:26:15.267][info] Got message:ChatMessage{chat=지역, author='Dev_pizza', text='어이!'}.
+[15-12-22 16:26:15.267][info] Message ChatMessage{chat=지역, author='Dev_pizza', text='어이!'} sent to chat (id = 2) members.
+[15-12-22 16:26:15.535][info] Got message:ChatMessage{chat=지역, author='Dev_pizza', text='거기 너!'}.
+[15-12-22 16:26:15.535][info] Message ChatMessage{chat=지역, author='Dev_pizza', text='거기 너!'} sent to chat (id = 2) members.
+[15-12-22 16:47:40.147][info] Got message:ChatMessage{chat=지역, author='cjww0411', text='여기야!'}.
+[15-12-22 16:47:40.147][info] Message ChatMessage{chat=지역, author='cjww0411', text='여기야!'} sent to chat (id = 2) members.
+[15-12-22 16:56:32.145][info] Got message:ChatMessage{chat=지역, author='cjww0411', text='어이!'}.
+[15-12-22 16:56:32.145][info] Message ChatMessage{chat=지역, author='cjww0411', text='어이!'} sent to chat (id = 2) members.
+[15-12-22 17:08:00.731][info] Got message:ChatMessage{chat=지역, author='Dev_pizza', text='거기 너!'}.
+[15-12-22 17:08:00.731][info] Message ChatMessage{chat=지역, author='Dev_pizza', text='거기 너!'} sent to chat (id = 2) members.
+[15-12-22 17:08:00.935][info] Got message:ChatMessage{chat=지역, author='Dev_pizza', text='어이!'}.
+[15-12-22 17:08:00.935][info] Message ChatMessage{chat=지역, author='Dev_pizza', text='어이!'} sent to chat (id = 2) members.
+[15-12-22 17:08:01.102][info] Got message:ChatMessage{chat=지역, author='Dev_pizza', text='여기야!'}.
+[15-12-22 17:08:01.102][info] Message ChatMessage{chat=지역, author='Dev_pizza', text='여기야!'} sent to chat (id = 2) members.
+[15-12-22 17:09:11.466][info] Got message:ChatMessage{chat=지역, author='cjww0411', text='거기 너!'}.
+[15-12-22 17:09:11.466][info] Message ChatMessage{chat=지역, author='cjww0411', text='거기 너!'} sent to chat (id = 2) members.
+[15-12-22 17:09:14.281][info] Got message:ChatMessage{chat=지역, author='cjww0411', text='어이!'}.
+[15-12-22 17:09:14.281][info] Message ChatMessage{chat=지역, author='cjww0411', text='어이!'} sent to chat (id = 2) members.
+[15-12-22 17:09:15.799][info] Got message:ChatMessage{chat=지역, author='cjww0411', text='거기 너!'}.
+[15-12-22 17:09:15.800][info] Message ChatMessage{chat=지역, author='cjww0411', text='거기 너!'} sent to chat (id = 2) members.
+[15-12-22 17:09:18.152][info] Got message:ChatMessage{chat=지역, author='cjww0411', text='거기 너!'}.
+[15-12-22 17:09:18.152][info] Message ChatMessage{chat=지역, author='cjww0411', text='거기 너!'} sent to chat (id = 2) members.
+[15-12-22 17:12:41.602][info] Got message:ChatMessage{chat=지역, author='cjww0411', text='거기 너!'}.
+[15-12-22 17:12:41.602][info] Message ChatMessage{chat=지역, author='cjww0411', text='거기 너!'} sent to chat (id = 2) members.
+[15-12-22 17:22:40.394][info] Got message:ChatMessage{chat=지역, author='cjww0411', text='어이!'}.
+[15-12-22 17:22:40.394][info] Message ChatMessage{chat=지역, author='cjww0411', text='어이!'} sent to chat (id = 2) members.
+[15-12-22 17:33:29.060][info] Player 0 disconnecting....
+[15-12-22 17:33:29.060][info] Disconnecting player 0 finished.
+[15-12-22 17:33:29.066][info] Player 0 disconnecting....
+[15-12-22 17:33:29.066][info] Disconnecting player 0 finished.

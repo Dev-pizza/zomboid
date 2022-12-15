@@ -1,0 +1,4 @@
+[15-12-22 16:25:54.095][info] Init chat system....
+[15-12-22 16:25:54.095][info] Mode: multiplayer.
+[15-12-22 16:25:54.095][info] Chat owner: Dev_pizza.
+[15-12-22 17:12:41.632][info] Got message from server: ChatMessage{chat=지역, author='cjww0411', text='거기 너!'}.

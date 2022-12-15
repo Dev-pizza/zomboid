@@ -1,0 +1,361 @@
+[15-12-22 15:47:31.069] 76561198809018506 "Dev_pizza" container -1 8244,11668,0 [Base.BreadKnife].
+[15-12-22 15:47:37.072] 76561198809018506 "Dev_pizza" container -1 8244,11668,0 [Base.MeatCleaver].
+[15-12-22 15:48:04.072] 76561198809018506 "Dev_pizza" container -4 8243,11668,0 [Base.TinOpener, Base.DeadRat, Base.CannedPotato2, Base.TunaTin].
+[15-12-22 15:48:07.069] 76561198809018506 "Dev_pizza" container -3 8243,11668,0 [Base.CannedCarrots2, Base.TinnedBeans].
+[15-12-22 15:48:13.075] 76561198809018506 "Dev_pizza" container -6 8243,11669,0 [Base.Corn, farming.Bacon, Base.PorkChop, farming.RedRadish, Base.Processedcheese, Base.Eggplant].
+[15-12-22 15:48:22.075] 76561198809018506 "Dev_pizza" container -2 8246,11668,0 [Base.Crisps4, Base.Crisps3].
+[15-12-22 15:48:46.069] 76561198809018506 "Dev_pizza" container -1 8251,11668,0 [Base.BookMetalWelding1].
+[15-12-22 15:49:26.107] 76561199121161099 "cjww0411" container -1 8246,11668,0 [Base.Cereal].
+[15-12-22 15:49:29.108] 76561199121161099 "cjww0411" container -1 8246,11668,0 [Base.Crackers].
+[15-12-22 15:50:04.072] 76561198809018506 "Dev_pizza" container -1 8246,11672,0 [Base.GuitarElectricBlue].
+[15-12-22 15:50:10.074] 76561198809018506 "Dev_pizza" container -1 8246,11673,0 [Base.Bag_FannyPackFront].
+[15-12-22 15:50:31.073] 76561198809018506 "Dev_pizza" container -1 8239,11676,0 [Base.EmptyPetrolCan].
+[15-12-22 15:50:34.069] 76561198809018506 "Dev_pizza" container -1 8239,11676,0 [Base.EmptyPetrolCan].
+[15-12-22 15:50:35.099] 76561199121161099 "cjww0411" container -1 8240,11676,0 [Base.Wrench].
+[15-12-22 15:50:41.100] 76561199121161099 "cjww0411" container -2 8240,11676,0 [Base.Screwdriver].
+[15-12-22 15:51:35.114] 76561199121161099 "cjww0411" container -1 8221,11680,0 [Base.TinOpener].
+[15-12-22 15:51:37.862] 76561199121161099 "cjww0411" container -1 8221,11680,0 [Base.CannedPeaches].
+[15-12-22 15:51:40.073] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Corn, Base.DeadRat, farming.RedRadish, Base.Processedcheese, Base.Eggplant].
+[15-12-22 15:51:43.079] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [farming.Bacon, Base.PorkChop].
+[15-12-22 15:52:14.103] 76561199121161099 "cjww0411" container -1 8215,11683,1 [Base.RevolverCase2].
+[15-12-22 15:52:20.833] 76561199121161099 "cjww0411" floor +1 8214,11683,1 [Base.RevolverCase2].
+[15-12-22 15:52:29.103] 76561199121161099 "cjww0411" container -1 8214,11683,1 [Base.Revolver].
+[15-12-22 15:52:32.103] 76561199121161099 "cjww0411" container -1 8214,11683,1 [Base.Bullets45Box].
+[15-12-22 15:52:46.075] 76561198809018506 "Dev_pizza" container -1 8215,11679,0 [Base.WristWatch_Left_ClassicBlack].
+[15-12-22 15:53:20.189] 76561199121161099 "cjww0411" floor +1 8216,11690,0 [Base.Glasses_Normal].
+[15-12-22 15:53:34.647] 76561199121161099 "cjww0411" floor +1 8215,11689,0 [Base.Hat_BaseballCapKY].
+[15-12-22 15:53:35.880] 76561198809018506 "Dev_pizza" floor +1 8216,11690,0 [Base.Hat_BaseballCapKY].
+[15-12-22 15:53:39.990] 76561199121161099 "cjww0411" container -1 8214,11690,0 [Base.WristWatch_Left_ClassicBrown].
+[15-12-22 15:54:07.069] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.EmptyPetrolCan].
+[15-12-22 15:54:10.071] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.EmptyPetrolCan].
+[15-12-22 15:54:28.065] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.TunaTin].
+[15-12-22 15:54:31.071] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.TinnedBeans].
+[15-12-22 15:54:32.110] 76561199121161099 "cjww0411" container -1 8202,11682,0 [Base.Shirt_Denim].
+[15-12-22 15:54:34.071] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.Crisps4, Base.Crisps3, Base.CannedPotato2].
+[15-12-22 15:54:37.075] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.TinOpener].
+[15-12-22 15:54:38.101] 76561199121161099 "cjww0411" container -1 8202,11682,0 [Base.Socks_Long].
+[15-12-22 15:54:41.110] 76561199121161099 "cjww0411" container -1 8202,11682,0 [Base.Tshirt_DefaultTEXTURE_TINT].
+[15-12-22 15:54:55.065] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.DeadRat].
+[15-12-22 15:55:26.107] 76561199121161099 "cjww0411" container -1 8206,11672,1 [Base.Pills].
+[15-12-22 15:55:29.111] 76561199121161099 "cjww0411" container -1 8206,11672,1 [Base.Sheet].
+[15-12-22 15:55:43.069] 76561198809018506 "Dev_pizza" container -1 8208,11676,0 [Base.Corn].
+[15-12-22 15:55:46.069] 76561198809018506 "Dev_pizza" container -1 8208,11676,0 [Base.Leek].
+[15-12-22 15:55:52.070] 76561198809018506 "Dev_pizza" container -1 8208,11675,0 [Base.GridlePan].
+[15-12-22 15:55:56.114] 76561199121161099 "cjww0411" container -1 8201,11681,1 [Base.FirstAidKit].
+[15-12-22 15:55:58.074] 76561198809018506 "Dev_pizza" container -1 8208,11675,0 [Base.Saucepan].
+[15-12-22 15:55:59.106] 76561199121161099 "cjww0411" container -2 8202,11681,1 [Base.Pills].
+[15-12-22 15:56:14.109] 76561199121161099 "cjww0411" container -1 8204,11683,1 [Base.Shoes_Strapped].
+[15-12-22 15:56:35.858] 76561199121161099 "cjww0411" floor +1 8203,11681,1 [Base.ShotgunCase1].
+[15-12-22 15:56:38.106] 76561199121161099 "cjww0411" container -1 8203,11683,1 [Base.ShotgunCase1].
+[15-12-22 15:56:50.115] 76561199121161099 "cjww0411" container -2 8203,11681,1 [Base.ShotgunShellsBox, Base.Shotgun].
+[15-12-22 15:56:55.879] 76561199121161099 "cjww0411" floor +1 8203,11682,1 [Base.Screwdriver].
+[15-12-22 15:56:55.938] 76561199121161099 "cjww0411" floor +1 8203,11682,1 [Base.Screwdriver].
+[15-12-22 15:56:58.753] 76561199121161099 "cjww0411" floor -1 8203,11682,1 [Base.Screwdriver].
+[15-12-22 15:57:59.110] 76561199121161099 "cjww0411" container -1 8208,11673,0 [Base.CannedPeas].
+[15-12-22 15:58:10.549] 76561199121161099 "cjww0411" floor +1 8207,11673,0 [Base.Shoes_TrainerTINT].
+[15-12-22 15:58:14.365] 76561199121161099 "cjww0411" floor +1 8207,11673,0 [Base.TinCanEmpty].
+[15-12-22 15:59:29.117] 76561199121161099 "cjww0411" container -1 8193,11678,0 [Base.Bag_Satchel].
+[15-12-22 15:59:32.111] 76561199121161099 "cjww0411" container -1 8190,11677,0 [Base.GardenSaw].
+[15-12-22 15:59:53.113] 76561199121161099 "cjww0411" container -1 8190,11677,0 [Base.NailsBox].
+[15-12-22 15:59:53.805] 76561199121161099 "cjww0411" floor +1 8190,11676,0 [Base.Bullets45Box].
+[15-12-22 15:59:54.920] 76561199121161099 "cjww0411" floor +1 8190,11676,0 [Base.Revolver].
+[15-12-22 16:00:01.852] 76561199121161099 "cjww0411" floor +1 8190,11676,0 [Base.Tshirt_DefaultTEXTURE_TINT].
+[15-12-22 16:03:52.068] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [farming.RedRadish].
+[15-12-22 16:03:53.114] 76561199121161099 "cjww0411" container -1 8195,11642,0 [Base.Vest_BulletPolice].
+[15-12-22 16:03:59.118] 76561199121161099 "cjww0411" container -1 8195,11642,0 [Base.Jacket_Police].
+[15-12-22 16:04:02.109] 76561199121161099 "cjww0411" container -1 8195,11642,0 [Base.HolsterSimple].
+[15-12-22 16:04:08.117] 76561199121161099 "cjww0411" container -1 8195,11642,0 [Base.Nightstick].
+[15-12-22 16:04:25.066] 76561198809018506 "Dev_pizza" container +0 8221,11681,0 [Base.GriddlePanFriedVegetables].
+[15-12-22 16:05:17.109] 76561199121161099 "cjww0411" container -1 8208,11629,0 [Base.BakingPan].
+[15-12-22 16:05:23.111] 76561199121161099 "cjww0411" container -1 8208,11628,0 [Base.CannedPeas].
+[15-12-22 16:05:38.117] 76561199121161099 "cjww0411" container -2 8208,11632,0 [Base.TVDinner, Base.Pepper].
+[15-12-22 16:05:44.121] 76561199121161099 "cjww0411" container -1 8208,11632,0 [Base.Crisps4].
+[15-12-22 16:05:49.073] 76561198809018506 "Dev_pizza" container -1 8221,11681,0 [Base.GriddlePanFriedVegetables].
+[15-12-22 16:06:17.124] 76561199121161099 "cjww0411" container -2 8206,11631,1 [Base.PistolCase3, Base.PistolCase1].
+[15-12-22 16:06:21.249] 76561199121161099 "cjww0411" floor +1 8207,11630,1 [Base.PistolCase3].
+[15-12-22 16:06:22.184] 76561199121161099 "cjww0411" floor +1 8207,11631,1 [Base.PistolCase1].
+[15-12-22 16:06:32.118] 76561199121161099 "cjww0411" container -1 8207,11630,1 [Base.44Clip].
+[15-12-22 16:06:38.121] 76561199121161099 "cjww0411" container -1 8207,11630,1 [Base.Bullets44Box].
+[15-12-22 16:06:59.114] 76561199121161099 "cjww0411" container -1 8207,11630,1 [Base.Pistol3].
+[15-12-22 16:07:41.118] 76561199121161099 "cjww0411" container -1 8201,11632,1 [Base.Bandage].
+[15-12-22 16:07:47.120] 76561199121161099 "cjww0411" container -1 8201,11633,1 [Base.Pills].
+[15-12-22 16:08:05.120] 76561199121161099 "cjww0411" container -1 8201,11640,1 [Base.RevolverCase2].
+[15-12-22 16:08:05.604] 76561199121161099 "cjww0411" floor +1 8203,11640,1 [Base.RevolverCase2].
+[15-12-22 16:08:31.073] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.Pear].
+[15-12-22 16:08:34.066] 76561198809018506 "Dev_pizza" container -1 8221,11682,0 [Base.Bowl].
+[15-12-22 16:08:34.066] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Pear].
+[15-12-22 16:08:49.067] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.Lemon].
+[15-12-22 16:08:55.077] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.Pear].
+[15-12-22 16:09:07.071] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Smallanimalmeat, Base.GriddlePanFriedVegetables].
+[15-12-22 16:09:16.064] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Corn].
+[15-12-22 16:09:19.075] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.FruitSalad].
+[15-12-22 16:09:41.121] 76561199121161099 "cjww0411" container -1 8221,11683,0 [Base.GriddlePanFriedVegetables].
+[15-12-22 16:10:02.118] 76561199121161099 "cjww0411" container +0 8221,11680,0 [Base.BakingPan].
+[15-12-22 16:10:11.117] 76561199121161099 "cjww0411" container +0 8221,11680,0 [Base.GridlePan].
+[15-12-22 16:10:40.076] 76561198809018506 "Dev_pizza" container -1 8229,11676,0 [Base.WristWatch_Left_DigitalRed].
+[15-12-22 16:10:43.371] 76561198809018506 "Dev_pizza" floor +1 8229,11677,0 [Base.WristWatch_Left_ClassicBlack].
+[15-12-22 16:12:46.072] 76561198809018506 "Dev_pizza" container -1 8245,11690,0 [Base.FarmingMag1].
+[15-12-22 16:12:53.119] 76561199121161099 "cjww0411" container +0 8221,11680,0 [Base.TVDinner].
+[15-12-22 16:13:35.121] 76561199121161099 "cjww0411" container +0 8221,11680,0 [Base.Cereal].
+[15-12-22 16:13:46.787] 76561198809018506 "Dev_pizza" floor +1 8238,11713,0 [Base.Glasses_Reading].
+[15-12-22 16:14:13.070] 76561198809018506 "Dev_pizza" container -2 8244,11716,0 [farming.Tomato, Base.Peach].
+[15-12-22 16:14:16.071] 76561198809018506 "Dev_pizza" container -1 8244,11716,0 [Base.Grapes].
+[15-12-22 16:15:02.126] 76561199121161099 "cjww0411" container -20 8222,11633,0 [Base.Cigarettes].
+[15-12-22 16:15:08.122] 76561199121161099 "cjww0411" container -1 8222,11632,0 [Base.Bread].
+[15-12-22 16:15:19.068] 76561198809018506 "Dev_pizza" container -2 8225,11712,0 [Base.Saw, Base.ScrewsBox].
+[15-12-22 16:15:22.071] 76561198809018506 "Dev_pizza" container -1 8225,11712,0 [Base.Hammer].
+[15-12-22 16:15:34.073] 76561198809018506 "Dev_pizza" container -1 8227,11712,0 [Base.HandAxe].
+[15-12-22 16:15:37.067] 76561198809018506 "Dev_pizza" container -1 8227,11712,0 [Base.Screwdriver].
+[15-12-22 16:15:56.125] 76561199121161099 "cjww0411" container -1 8218,11632,1 [Base.Hammer].
+[15-12-22 16:16:01.078] 76561198809018506 "Dev_pizza" container -1 8219,11721,0 [Base.Pills].
+[15-12-22 16:16:23.123] 76561199121161099 "cjww0411" container -1 8217,11632,1 [Base.BookFirstAid1].
+[15-12-22 16:16:34.066] 76561198809018506 "Dev_pizza" container -1 8215,11723,0 [Base.Peas].
+[15-12-22 16:16:37.075] 76561198809018506 "Dev_pizza" container +0 8215,11723,0 [Base.Peas].
+[15-12-22 16:16:40.073] 76561198809018506 "Dev_pizza" container -1 8215,11723,0 [Base.Processedcheese].
+[15-12-22 16:17:10.068] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Processedcheese].
+[15-12-22 16:17:19.071] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [farming.Tomato, Base.Peach, Base.Grapes].
+[15-12-22 16:17:25.073] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.CannedCarrots2].
+[15-12-22 16:17:28.073] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.CannedCarrots2].
+[15-12-22 16:17:37.075] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.BookMetalWelding1].
+[15-12-22 16:17:40.066] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.FarmingMag1, Base.ScrewsBox].
+[15-12-22 16:17:43.066] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.Hammer].
+[15-12-22 16:17:46.074] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.Screwdriver].
+[15-12-22 16:17:47.218] 76561199121161099 "cjww0411" floor +1 8220,11685,0 [Base.Jacket_Police].
+[15-12-22 16:17:49.074] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.Saw].
+[15-12-22 16:18:20.126] 76561199121161099 "cjww0411" container +0 8214,11683,0 [Base.BookFirstAid1].
+[15-12-22 16:18:25.069] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.BreadKnife].
+[15-12-22 16:18:28.072] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.Saucepan].
+[15-12-22 16:18:34.074] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.MeatCleaver].
+[15-12-22 16:20:26.131] 76561199121161099 "cjww0411" container -1 8145,11730,0 [Base.Hat_Fireman].
+[15-12-22 16:20:34.075] 76561198809018506 "Dev_pizza" container -1 8159,11743,0 [Base.LouisvilleMap2].
+[15-12-22 16:20:41.126] 76561199121161099 "cjww0411" container -1 8148,11728,0 [Base.Axe].
+[15-12-22 16:20:44.128] 76561199121161099 "cjww0411" container +0 8148,11728,0 [Base.Nightstick].
+[15-12-22 16:21:19.684] 76561199121161099 "cjww0411" floor +1 8158,11739,0 [Base.Axe].
+[15-12-22 16:22:53.823] 76561198809018506 "Dev_pizza" floor +1 8151,11766,0 [Base.GuitarElectricBlue].
+[15-12-22 16:25:18.818] 76561198809018506 "Dev_pizza" floor -1 8158,11739,0 [Base.Axe].
+[15-12-22 16:25:39.788] 76561198809018506 "Dev_pizza" floor +1 8170,11742,0 [Base.Axe].
+[15-12-22 16:27:56.141] 76561199121161099 "cjww0411" container -1 8221,11680,0 [Base.GridlePan].
+[15-12-22 16:28:41.949] 76561198809018506 "Dev_pizza" floor -1 8151,11766,0 [Base.GuitarElectricBlue].
+[15-12-22 16:28:55.288] 76561198809018506 "Dev_pizza" floor +1 8154,11767,0 [Base.Glasses_Reading].
+[15-12-22 16:29:02.491] 76561199121161099 "cjww0411" floor +1 8189,11714,0 [Base.Glasses_Normal].
+[15-12-22 16:29:23.116] 76561198809018506 "Dev_pizza" floor -1 8170,11742,0 [Base.Axe].
+[15-12-22 16:29:26.143] 76561199121161099 "cjww0411" container -1 8188,11713,0 [Base.Tshirt_WhiteTINT].
+[15-12-22 16:29:29.139] 76561199121161099 "cjww0411" container -1 8188,11713,0 [Base.Socks_Ankle].
+[15-12-22 16:29:45.727] 76561199121161099 "cjww0411" floor +1 8188,11713,0 [Base.RippedSheetsDirty].
+[15-12-22 16:31:10.074] 76561198809018506 "Dev_pizza" container -1 8136,11750,0 [Base.WristWatch_Left_DigitalBlack].
+[15-12-22 16:31:25.070] 76561198809018506 "Dev_pizza" container -1 8136,11749,0 [Base.Screwdriver].
+[15-12-22 16:31:47.135] 76561199121161099 "cjww0411" container -1 8145,11745,0 [Base.BallPeenHammer].
+[15-12-22 16:32:08.138] 76561199121161099 "cjww0411" container -1 8151,11730,0 [Base.AlcoholWipes].
+[15-12-22 16:32:10.071] 76561198809018506 "Dev_pizza" container -1 8149,11732,0 [Base.Shovel2].
+[15-12-22 16:32:11.145] 76561199121161099 "cjww0411" container -1 8151,11731,0 [Base.Scalpel].
+[15-12-22 16:32:12.939] 76561198809018506 "Dev_pizza" container -2 8149,11732,0 [farming.HandShovel].
+[15-12-22 16:32:14.135] 76561199121161099 "cjww0411" container -2 8151,11731,0 [Base.AlcoholWipes, Base.Antibiotics].
+[15-12-22 16:32:29.141] 76561199121161099 "cjww0411" container -1 8153,11731,0 [Base.WristWatch_Left_DigitalBlack].
+[15-12-22 16:32:34.069] 76561198809018506 "Dev_pizza" container -1 8155,11730,0 [Base.HottieZ].
+[15-12-22 16:32:41.136] 76561199121161099 "cjww0411" container -1 8153,11731,0 [Base.Jumper_RoundNeck].
+[15-12-22 16:32:44.141] 76561199121161099 "cjww0411" container -1 8153,11731,0 [Base.Tshirt_DefaultTEXTURE_TINT].
+[15-12-22 16:32:47.139] 76561199121161099 "cjww0411" container -1 8153,11731,0 [Base.Socks_Ankle].
+[15-12-22 16:32:50.142] 76561199121161099 "cjww0411" container -1 8153,11731,0 [Base.Trousers_DefaultTEXTURE].
+[15-12-22 16:33:08.142] 76561199121161099 "cjww0411" container -1 8157,11738,0 [Base.Hat_Fireman].
+[15-12-22 16:33:40.074] 76561198809018506 "Dev_pizza" container -1 8138,11739,0 [Base.TrapMouse].
+[15-12-22 16:33:43.067] 76561198809018506 "Dev_pizza" container -1 8138,11739,0 [Base.ScrewsBox].
+[15-12-22 16:34:50.144] 76561199121161099 "cjww0411" container -1 8131,11745,1 [Base.Crackers].
+[15-12-22 16:35:02.145] 76561199121161099 "cjww0411" container -1 8130,11745,1 [Base.Crisps3].
+[15-12-22 16:35:20.149] 76561199121161099 "cjww0411" container -1 8128,11749,1 [Base.CannedCornedBeef].
+[15-12-22 16:35:21.783] 76561199121161099 "cjww0411" container -1 8128,11749,1 [Base.CannedPineapple].
+[15-12-22 16:35:53.147] 76561199121161099 "cjww0411" container -1 8128,11728,1 [Base.Shoes_ArmyBoots].
+[15-12-22 16:36:49.071] 76561198809018506 "Dev_pizza" container -1 8145,11742,0 [Base.DuctTape].
+[15-12-22 16:36:52.069] 76561198809018506 "Dev_pizza" container -1 8145,11742,0 [Base.Plank].
+[15-12-22 16:37:41.148] 76561199121161099 "cjww0411" container -1 8136,11750,0 [].
+[15-12-22 16:38:52.063] 76561198809018506 "Dev_pizza" container -1 8156,11736,0 [Base.Bag_Satchel].
+[15-12-22 16:38:57.376] 76561198809018506 "Dev_pizza" floor +1 8156,11736,0 [Base.Bag_Satchel].
+[15-12-22 16:38:59.143] 76561199121161099 "cjww0411" container -1 8157,11736,0 [].
+[15-12-22 16:39:04.421] 76561199121161099 "cjww0411" floor -1 8156,11736,0 [Base.Bag_Satchel].
+[15-12-22 16:39:07.069] 76561198809018506 "Dev_pizza" container -1 8158,11736,0 [Base.LouisvilleMap2].
+[15-12-22 16:39:10.069] 76561198809018506 "Dev_pizza" container -1 8158,11736,0 [Base.Bag_FannyPackFront].
+[15-12-22 16:39:11.150] 76561199121161099 "cjww0411" container -1 8157,11736,0 [].
+[15-12-22 16:39:13.066] 76561198809018506 "Dev_pizza" container -1 8158,11736,0 [Base.HandAxe].
+[15-12-22 16:39:16.066] 76561198809018506 "Dev_pizza" container -1 8158,11736,0 [Base.Pills].
+[15-12-22 16:39:17.144] 76561199121161099 "cjww0411" container -20 8157,11736,0 [].
+[15-12-22 16:39:21.465] 76561198809018506 "Dev_pizza" floor +1 8158,11736,0 [Base.Plank].
+[15-12-22 16:39:21.475] 76561199121161099 "cjww0411" floor +1 8157,11736,0 [Base.Bag_Satchel].
+[15-12-22 16:39:23.148] 76561199121161099 "cjww0411" container -1 8157,11736,0 [].
+[15-12-22 16:39:39.161] 76561198809018506 "Dev_pizza" floor -1 8157,11736,0 [Base.Bag_Satchel].
+[15-12-22 16:39:50.148] 76561199121161099 "cjww0411" container -18 8157,11736,0 [].
+[15-12-22 16:39:53.148] 76561199121161099 "cjww0411" container -7 8157,11736,0 [].
+[15-12-22 16:39:56.138] 76561199121161099 "cjww0411" container -2 8157,11736,0 [].
+[15-12-22 16:40:08.149] 76561199121161099 "cjww0411" container -1 8157,11736,0 [].
+[15-12-22 16:40:11.146] 76561199121161099 "cjww0411" container -1 8157,11736,0 [].
+[15-12-22 16:40:17.149] 76561199121161099 "cjww0411" container -6 8157,11736,0 [].
+[15-12-22 16:40:26.500] 76561198809018506 "Dev_pizza" floor +1 8182,11731,0 [farming.HandShovel].
+[15-12-22 16:40:26.560] 76561198809018506 "Dev_pizza" floor +1 8182,11731,0 [farming.HandShovel].
+[15-12-22 16:40:30.133] 76561198809018506 "Dev_pizza" floor -1 8182,11731,0 [farming.HandShovel].
+[15-12-22 16:40:30.667] 76561198809018506 "Dev_pizza" floor -1 8182,11731,0 [farming.HandShovel].
+[15-12-22 16:40:36.195] 76561198809018506 "Dev_pizza" floor +1 8182,11731,0 [Base.GuitarElectricBlue].
+[15-12-22 16:40:48.978] 76561199121161099 "cjww0411" floor +1 8146,11733,0 [Base.WristWatch_Left_DigitalBlack].
+[15-12-22 16:42:04.718] 76561199121161099 "cjww0411" floor +1 8196,11692,0 [Base.Glasses_Reading].
+[15-12-22 16:43:22.069] 76561198809018506 "Dev_pizza" container -1 8188,11688,0 [Base.Socks_Long].
+[15-12-22 16:43:49.068] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.FruitSalad].
+[15-12-22 16:44:17.537] 76561199121161099 "cjww0411" floor +1 8219,11682,0 [Base.GridlePan].
+[15-12-22 16:44:20.380] 76561198809018506 "Dev_pizza" floor -1 8219,11682,0 [Base.GridlePan].
+[15-12-22 16:44:22.506] 76561199121161099 "cjww0411" floor +1 8219,11682,0 [Base.RippedSheetsDirty].
+[15-12-22 16:44:31.073] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.Smallanimalmeat].
+[15-12-22 16:44:40.077] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.Eggplant].
+[15-12-22 16:44:49.067] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [farming.Tomato].
+[15-12-22 16:44:55.890] 76561199121161099 "cjww0411" floor +1 8220,11681,0 [Base.TinCanEmpty].
+[15-12-22 16:44:58.076] 76561198809018506 "Dev_pizza" container +0 8221,11681,0 [Base.GriddlePanFriedVegetables].
+[15-12-22 16:44:58.625] 76561199121161099 "cjww0411" floor +1 8220,11681,0 [Base.CannedPineapple].
+[15-12-22 16:45:19.063] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.WristWatch_Left_DigitalBlack].
+[15-12-22 16:45:22.075] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.Shovel2].
+[15-12-22 16:45:25.065] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.Screwdriver, Base.Pills].
+[15-12-22 16:45:28.069] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.LouisvilleMap2].
+[15-12-22 16:45:40.065] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.Screwdriver, Base.NailsBox, Radio.CDplayer].
+[15-12-22 16:45:43.067] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [farming.HandShovel].
+[15-12-22 16:45:46.073] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.GardenSaw].
+[15-12-22 16:45:49.065] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.Hammer, Base.Wrench].
+[15-12-22 16:45:52.069] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.FirstAidKit].
+[15-12-22 16:45:58.065] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.HandAxe].
+[15-12-22 16:46:15.806] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.CannedPeaches, Base.CannedPeas].
+[15-12-22 16:46:49.067] 76561198809018506 "Dev_pizza" container -1 8221,11681,0 [Base.GriddlePanFriedVegetables].
+[15-12-22 16:46:58.078] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.GriddlePanFriedVegetables].
+[15-12-22 16:47:43.068] 76561198809018506 "Dev_pizza" container -1 8213,11682,0 [Base.Pills].
+[15-12-22 16:48:25.350] 76561199121161099 "cjww0411" floor +1 8148,11750,0 [Base.Glasses_Normal].
+[15-12-22 16:48:28.068] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.Bowl].
+[15-12-22 16:48:46.072] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.DuctTape].
+[15-12-22 16:48:49.074] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.ScrewsBox].
+[15-12-22 16:51:37.242] 76561198809018506 "Dev_pizza" floor +1 8114,11646,0 [Base.Hat_Cowboy].
+[15-12-22 16:51:37.242] 76561198809018506 "Dev_pizza" floor +1 8115,11646,0 [Base.Glasses_Normal].
+[15-12-22 16:51:49.067] 76561198809018506 "Dev_pizza" container -1 8114,11648,0 [Base.ButterKnife].
+[15-12-22 16:52:12.053] 76561198809018506 "Dev_pizza" floor +1 8113,11648,0 [Base.Glasses_Normal].
+[15-12-22 16:53:20.542] 76561198809018506 "Dev_pizza" container -1 8090,11631,0 [Base.LouisvilleMap8].
+[15-12-22 16:53:26.472] 76561199121161099 "cjww0411" floor +1 8160,11722,0 [Base.RippedSheetsDirty].
+[15-12-22 16:54:04.069] 76561198809018506 "Dev_pizza" container -2 8086,11624,0 [Base.CakeBlackForest, Base.CakeChocolate].
+[15-12-22 16:54:10.077] 76561198809018506 "Dev_pizza" container -4 8086,11626,0 [Base.CookieChocolateChip, Base.Cupcake, Base.CookiesChocolate, Base.Painauchocolat].
+[15-12-22 16:54:16.065] 76561198809018506 "Dev_pizza" container -2 8086,11623,0 [Base.DoughnutJelly, Base.DoughnutPlain].
+[15-12-22 16:54:22.074] 76561198809018506 "Dev_pizza" container -3 8086,11625,0 [Base.PieApple, Base.PieBlueberry, Base.PieKeyLime].
+[15-12-22 16:54:37.069] 76561198809018506 "Dev_pizza" container -7 8080,11618,0 [Base.Broccoli, Base.Carrots, farming.Cabbage, Base.Ham, Base.Cheese, farming.MayonnaiseFull].
+[15-12-22 16:54:52.075] 76561198809018506 "Dev_pizza" container -1 8080,11626,0 [Base.EmptySandbag].
+[15-12-22 16:54:53.154] 76561199121161099 "cjww0411" container -1 8221,11680,0 [Base.CannedPotato2].
+[15-12-22 16:54:55.064] 76561198809018506 "Dev_pizza" container -1 8080,11626,0 [farming.Potato].
+[15-12-22 16:55:04.072] 76561198809018506 "Dev_pizza" container -1 8082,11626,0 [Base.WoodenMallet].
+[15-12-22 16:55:07.073] 76561198809018506 "Dev_pizza" container -1 8082,11626,0 [Base.MincedMeat].
+[15-12-22 16:55:10.075] 76561198809018506 "Dev_pizza" container -1 8082,11626,0 [Base.Sausage].
+[15-12-22 16:55:17.178] 76561198809018506 "Dev_pizza" floor +1 8082,11625,0 [Base.WoodenMallet].
+[15-12-22 16:55:47.659] 76561198809018506 "Dev_pizza" floor +1 8082,11622,0 [Base.Glasses].
+[15-12-22 16:55:49.004] 76561198809018506 "Dev_pizza" floor +1 8082,11623,0 [Base.Glasses_Normal].
+[15-12-22 16:57:02.351] 76561198809018506 "Dev_pizza" floor +1 8092,11615,0 [Base.Hat_Beret].
+[15-12-22 16:57:39.100] 76561198809018506 "Dev_pizza" floor -1 8107,11594,0 [Base.Jack].
+[15-12-22 16:57:41.234] 76561198809018506 "Dev_pizza" floor -1 8106,11594,0 [Base.LugWrench].
+[15-12-22 16:58:17.164] 76561199121161099 "cjww0411" container -3 8175,11630,0 [Base.Steak, farming.Bacon, Base.MuttonChop].
+[15-12-22 16:58:20.159] 76561199121161099 "cjww0411" container -1 8175,11630,0 [Base.Salmon].
+[15-12-22 16:59:05.157] 76561199121161099 "cjww0411" container -1 8175,11633,1 [Base.Tweezers].
+[15-12-22 16:59:08.162] 76561199121161099 "cjww0411" container -1 8175,11633,1 [Base.Disinfectant].
+[15-12-22 16:59:11.158] 76561199121161099 "cjww0411" container -1 8175,11633,1 [Base.PillsVitamins].
+[15-12-22 16:59:15.947] 76561199121161099 "cjww0411" floor +1 8176,11634,1 [Base.TinCanEmpty].
+[15-12-22 16:59:32.162] 76561199121161099 "cjww0411" container -1 8180,11636,1 [Base.Bag_Satchel].
+[15-12-22 17:00:09.654] 76561199121161099 "cjww0411" floor +1 8179,11636,1 [Base.Bag_Satchel].
+[15-12-22 17:00:29.641] 76561198809018506 "Dev_pizza" floor +1 8076,11613,0 [Base.Hat_BaseballCapKY].
+[15-12-22 17:00:36.756] 76561198809018506 "Dev_pizza" floor +1 8072,11614,0 [Base.Hat_Beret].
+[15-12-22 17:01:02.161] 76561199121161099 "cjww0411" container -1 8187,11633,0 [Base.Hammer].
+[15-12-22 17:01:05.164] 76561199121161099 "cjww0411" container -1 8187,11633,0 [Base.NailsBox].
+[15-12-22 17:01:13.064] 76561198809018506 "Dev_pizza" container -1 8072,11613,0 [Base.LouisvilleMap9].
+[15-12-22 17:02:01.068] 76561198809018506 "Dev_pizza" container -1 8077,11616,0 [Base.LouisvilleMap4].
+[15-12-22 17:02:11.164] 76561199121161099 "cjww0411" container -1 8161,11631,0 [Base.BookCarpentry1].
+[15-12-22 17:02:14.166] 76561199121161099 "cjww0411" container -1 8162,11633,0 [Base.ElectronicsMag4].
+[15-12-22 17:02:31.066] 76561198809018506 "Dev_pizza" container -2 8081,11611,0 [Base.Pickles].
+[15-12-22 17:02:34.074] 76561198809018506 "Dev_pizza" container -3 8081,11611,0 [Base.Steak, Base.Ham, Base.FishFillet].
+[15-12-22 17:02:37.070] 76561198809018506 "Dev_pizza" container -1 8080,11610,0 [Base.Pepper].
+[15-12-22 17:02:38.163] 76561199121161099 "cjww0411" container +0 8162,11633,0 [Base.ElectronicsMag4].
+[15-12-22 17:02:46.068] 76561198809018506 "Dev_pizza" container -1 8080,11610,0 [Base.CarKey].
+[15-12-22 17:02:49.074] 76561198809018506 "Dev_pizza" container -4 8080,11611,0 [farming.Potato].
+[15-12-22 17:03:19.328] 76561198809018506 "Dev_pizza" floor +1 8094,11622,0 [Base.Glasses_Reading].
+[15-12-22 17:03:50.172] 76561199121161099 "cjww0411" container -1 8161,11639,1 [Base.Bandaid].
+[15-12-22 17:04:17.164] 76561199121161099 "cjww0411" container -1 8161,11640,0 [Base.CannedCornedBeef].
+[15-12-22 17:04:27.188] 76561199121161099 "cjww0411" floor +1 8162,11640,0 [Base.TinCanEmpty].
+[15-12-22 17:04:56.163] 76561199121161099 "cjww0411" container -1 8154,11633,0 [Base.EmptyPetrolCan].
+[15-12-22 17:06:14.165] 76561199121161099 "cjww0411" container +0 8221,11683,0 [farming.Bacon].
+[15-12-22 17:06:17.162] 76561199121161099 "cjww0411" container +0 8221,11683,0 [Base.Steak, Base.MuttonChop].
+[15-12-22 17:06:20.168] 76561199121161099 "cjww0411" container +0 8221,11683,0 [Base.Salmon].
+[15-12-22 17:06:29.166] 76561199121161099 "cjww0411" container +0 8214,11683,0 [Base.BookCarpentry1].
+[15-12-22 17:06:37.876] 76561199121161099 "cjww0411" floor +1 8213,11682,0 [Base.Shoes_TrainerTINT].
+[15-12-22 17:06:38.164] 76561199121161099 "cjww0411" container +0 8213,11683,0 [Base.EmptyPetrolCan].
+[15-12-22 17:07:34.066] 76561198809018506 "Dev_pizza" container -1 8067,11619,0 [Base.WristWatch_Left_ClassicBrown].
+[15-12-22 17:07:35.168] 76561199121161099 "cjww0411" container -1 8247,11670,0 [Base.Book].
+[15-12-22 17:08:02.177] 76561199121161099 "cjww0411" container -1 8247,11670,0 [Base.Book].
+[15-12-22 17:09:58.067] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.CookieChocolateChip, Base.CookiesChocolate, Base.DoughnutJelly, Base.Painauchocolat, Base.DoughnutPlain].
+[15-12-22 17:10:01.069] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Pickles, Base.Cupcake, Base.Carrots, Base.CakeChocolate, Base.Sausage].
+[15-12-22 17:10:04.068] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Broccoli, farming.Cabbage, farming.Potato].
+[15-12-22 17:10:07.077] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Pepper, farming.Potato, Base.Cheese, Base.MincedMeat, Base.FishFillet].
+[15-12-22 17:10:10.067] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Steak, Base.PieApple, Base.PieBlueberry].
+[15-12-22 17:10:13.070] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [farming.MayonnaiseFull, Base.PieKeyLime].
+[15-12-22 17:10:16.076] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Ham].
+[15-12-22 17:10:19.066] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Ham].
+[15-12-22 17:10:31.064] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.GriddlePanFriedVegetables].
+[15-12-22 17:11:22.074] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.LouisvilleMap9, Base.LouisvilleMap8, Base.LouisvilleMap4].
+[15-12-22 17:11:28.070] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.LugWrench].
+[15-12-22 17:11:31.074] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.Jack, Base.EmptySandbag].
+[15-12-22 17:11:52.069] 76561198809018506 "Dev_pizza" container -1 8221,11680,0 [Base.Bowl].
+[15-12-22 17:11:55.076] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.ButterKnife].
+[15-12-22 17:11:58.069] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.GridlePan].
+[15-12-22 17:12:04.065] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [farming.Cabbage].
+[15-12-22 17:12:07.074] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [farming.Cabbage].
+[15-12-22 17:12:13.076] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.Carrots].
+[15-12-22 17:12:16.076] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Carrots].
+[15-12-22 17:12:19.060] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.Broccoli].
+[15-12-22 17:12:28.073] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.Grapes].
+[15-12-22 17:12:31.066] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Grapes].
+[15-12-22 17:12:49.595] 76561198809018506 "Dev_pizza" floor +1 8220,11683,0 [Base.RippedSheets].
+[15-12-22 17:12:49.596] 76561198809018506 "Dev_pizza" floor +1 8220,11683,0 [Base.RippedSheets].
+[15-12-22 17:12:50.750] 76561198809018506 "Dev_pizza" container -1 8221,11683,0 [Base.Cheese].
+[15-12-22 17:13:41.186] 76561199121161099 "cjww0411" container -1 8215,11721,0 [Base.TinnedBeans].
+[15-12-22 17:13:56.910] 76561199121161099 "cjww0411" floor +1 8216,11721,0 [Base.TinCanEmpty].
+[15-12-22 17:15:26.175] 76561199121161099 "cjww0411" container -1 8286,11664,0 [Base.Magazine].
+[15-12-22 17:15:47.175] 76561199121161099 "cjww0411" container -1 8286,11664,0 [Base.MagazineCrossword2].
+[15-12-22 17:16:31.607] 76561199121161099 "cjww0411" container -6 8290,11661,0 [Base.ShotgunShells].
+[15-12-22 17:16:55.066] 76561198809018506 "Dev_pizza" container -1 8213,11682,0 [Base.BookMetalWelding1].
+[15-12-22 17:21:14.174] 76561199121161099 "cjww0411" container -1 8220,11593,0 [Base.MuldraughMap].
+[15-12-22 17:23:16.419] 76561199121161099 "cjww0411" floor +1 8204,11584,0 [Base.MuldraughMap].
+[15-12-22 17:23:22.906] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.907] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.908] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.909] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.910] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.910] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.911] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.911] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.912] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.913] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.914] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.915] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.915] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.916] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:22.916] 76561199121161099 "cjww0411" floor +1 8201,11588,0 [Base.RippedSheets].
+[15-12-22 17:23:31.620] 76561199121161099 "cjww0411" floor +1 8202,11598,0 [Base.Hat_BaseballCap].
+[15-12-22 17:24:53.183] 76561199121161099 "cjww0411" container -1 8208,11594,1 [Base.Pills].
+[15-12-22 17:25:53.187] 76561199121161099 "cjww0411" container -1 8211,11602,0 [Base.CannedCarrots2].
+[15-12-22 17:26:10.189] 76561199121161099 "cjww0411" floor +1 8210,11601,0 [Base.TinCanEmpty].
+[15-12-22 17:26:40.076] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.BookMetalWelding1].
+[15-12-22 17:28:22.884] 76561199121161099 "cjww0411" floor +1 8179,11597,1 [Base.RifleCase3].
+[15-12-22 17:28:23.178] 76561199121161099 "cjww0411" container -1 8180,11599,1 [Base.RifleCase3].
+[15-12-22 17:29:20.280] 76561198809018506 "Dev_pizza" corpse +1 8215,11680,0.
+[15-12-22 17:29:31.070] 76561198809018506 "Dev_pizza" container +0 8221,11683,0 [Base.Cheese].
+[15-12-22 17:30:05.926] 76561198809018506 "Dev_pizza" floor -1 8219,11682,0 [Base.RippedSheetsDirty].
+[15-12-22 17:30:07.549] 76561198809018506 "Dev_pizza" floor -1 8220,11683,0 [Base.RippedSheets].
+[15-12-22 17:30:07.560] 76561198809018506 "Dev_pizza" floor -1 8220,11683,0 [Base.RippedSheets].
+[15-12-22 17:30:34.075] 76561198809018506 "Dev_pizza" container -1 8213,11682,0 [Base.Broom].
+[15-12-22 17:30:53.427] 76561198809018506 "Dev_pizza" floor +1 8219,11682,0 [farming.Salad].
+[15-12-22 17:30:59.637] 76561199121161099 "cjww0411" floor -1 8219,11682,0 [farming.Salad].
+[15-12-22 17:31:17.317] 76561199121161099 "cjww0411" floor +1 8220,11683,0 [Base.Bowl].
+[15-12-22 17:31:27.728] 76561198809018506 "Dev_pizza" floor -1 8220,11683,0 [Base.Bowl].
+[15-12-22 17:31:29.703] 76561198809018506 "Dev_pizza" floor -1 8220,11681,0 [Base.CannedPineapple].
+[15-12-22 17:31:37.069] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.Bowl].
+[15-12-22 17:31:40.025] 76561198809018506 "Dev_pizza" container +0 8221,11680,0 [Base.CannedPineapple].
+[15-12-22 17:31:43.168] 76561199121161099 "cjww0411" corpse +1 8219,11698,0.
+[15-12-22 17:32:01.068] 76561198809018506 "Dev_pizza" container +0 8213,11682,0 [Base.Broom].
+[15-12-22 17:32:06.388] 76561199121161099 "cjww0411" corpse +1 8218,11696,0.
+[15-12-22 17:32:26.456] 76561199121161099 "cjww0411" corpse +1 8220,11697,0.
+[15-12-22 17:32:40.580] 76561198809018506 "Dev_pizza" corpse +1 8213,11682,0.
+[15-12-22 17:33:06.778] 76561198809018506 "Dev_pizza" corpse +1 8215,11682,0.
+[15-12-22 17:33:13.068] 76561198809018506 "Dev_pizza" container -1 8214,11683,0 [Base.BookCarpentry1].
+[15-12-22 17:33:18.304] 76561199121161099 "cjww0411" floor -1 8220,11681,0 [Base.TinCanEmpty].
+[15-12-22 17:33:21.128] 76561199121161099 "cjww0411" floor +1 8220,11682,0 [Base.TinCanEmpty].

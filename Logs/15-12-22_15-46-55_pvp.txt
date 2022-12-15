@@ -1,0 +1,9 @@
+[15-12-22 15:46:55.092][INFO] user "Dev_pizza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-12-22 15:49:11.082][INFO] user "cjww0411" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-12-22 16:21:19.731][INFO] user "cjww0411" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-12-22 16:21:37.716][INFO] user "cjww0411" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-12-22 16:22:53.827][INFO] user "Dev_pizza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-12-22 16:23:05.390][INFO] user "Dev_pizza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-12-22 16:25:39.817][INFO] user "Dev_pizza" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-12-22 16:25:54.079][INFO] user "Dev_pizza" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[15-12-22 17:33:29.060][INFO] user "Dev_pizza" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

@@ -1,0 +1,23 @@
+[15-12-22 15:46:06.790] added connection index=0 127.0.0.1.
+[15-12-22 15:46:07.490] 76561198809018506 "Dev_pizza" attempting to join.
+[15-12-22 15:46:07.491] 76561198809018506 "Dev_pizza" allowed to join.
+[15-12-22 15:46:32.172] 76561198809018506 "Dev_pizza" attempting to join used queue.
+[15-12-22 15:46:52.703] player Dev_pizza loading time was: 20182 ms.
+[15-12-22 15:46:55.096] 76561198809018506 "Dev_pizza" fully connected (8246,11670,0).
+[15-12-22 15:47:15.380] added connection index=1 210.92.104.177.
+[15-12-22 15:47:15.942] 76561199121161099 "cjww0411" attempting to join.
+[15-12-22 15:47:15.944] 76561199121161099 "cjww0411" allowed to join.
+[15-12-22 15:48:59.354] 76561199121161099 "cjww0411" attempting to join used queue.
+[15-12-22 15:49:07.600] player cjww0411 loading time was: 7990 ms.
+[15-12-22 15:49:11.087] 76561199121161099 "cjww0411" fully connected (8246,11670,0).
+[15-12-22 16:21:19.732] user cjww0411 died at (8158,11739,0) (non pvp).
+[15-12-22 16:21:35.434] 76561199121161099 "cjww0411" disconnected player (8158,11739,0).
+[15-12-22 16:21:37.717] 76561199121161099 "cjww0411" fully connected (8074,11731,0).
+[15-12-22 16:22:53.827] user Dev_pizza died at (8151,11766,0) (non pvp).
+[15-12-22 16:23:02.980] 76561198809018506 "Dev_pizza" disconnected player (8151,11766,0).
+[15-12-22 16:23:05.394] 76561198809018506 "Dev_pizza" fully connected (8074,11731,0).
+[15-12-22 16:25:39.818] user Dev_pizza died at (8170,11742,0) (non pvp).
+[15-12-22 16:25:51.275] 76561198809018506 "Dev_pizza" disconnected player (8170,11742,0).
+[15-12-22 16:25:54.080] 76561198809018506 "Dev_pizza" fully connected (8003,11545,0).
+[15-12-22 17:33:29.057] 76561198809018506 "Dev_pizza" removed connection index=0.
+[15-12-22 17:33:29.067] 76561198809018506 "Dev_pizza" disconnected player (8215,11682,0).
